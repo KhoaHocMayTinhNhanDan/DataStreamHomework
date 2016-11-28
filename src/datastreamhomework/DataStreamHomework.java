@@ -17,6 +17,7 @@ import java.io.IOException;
 public class DataStreamHomework {
     int[][] c = new int[5][10000];
     
+    
     /**
      * @param args the command line arguments
      */
